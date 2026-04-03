@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I am **Salah Akhtar**, a Computer Science student.  
+I am a Computer Science student.  
 Aspiring software developer focusing on AI/ML and data science.
 
 ## Currently Working On
