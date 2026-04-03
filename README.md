@@ -14,6 +14,6 @@ Aspiring software developer focusing on AI/ML and data science.
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## Reach Me
-- **LinkedIn**: Search "Salah Akhtar Carlisle software developer"
+- **LinkedIn**: [Search "Salah Akhtar Carlisle software developer"](https://www.linkedin.com/in/salah-ul-deen-akhtar-65901a28b/?skipRedirect=true)
 - **Email**: (add your email here)
 - **GitHub**: Issues or Discussions
