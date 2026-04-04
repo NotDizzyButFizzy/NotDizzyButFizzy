@@ -9,7 +9,7 @@ Aspiring software developer focusing on AI/ML and data science.
 - Exploring cloud computing (AWS) and cybersecurity
 
 ## Tools I Use
-- **Languages**: Python, Bash, Git
+- **Languages**: Python, Bash, HTML5, CSS3, JavaScript
 - **Tools & Environment**: Jupyter Notebook, VS Code, Linux
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib
 
