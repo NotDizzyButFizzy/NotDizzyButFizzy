@@ -14,5 +14,4 @@ Aspiring software developer focusing on AI/ML and data science.
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## Reach Me
-- **LinkedIn**: [Click me to view Linkedin](https://www.linkedin.com/in/salah-ul-deen-akhtar-65901a28b/?skipRedirect=true)
-[LinkedIn]([https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/salah-ul-deen-akhtar-65901a28b/?skipRedirect=true)
+[LinkedIn](https://www.linkedin.com/in/salah-ul-deen-akhtar-65901a28b/?skipRedirect=true)
