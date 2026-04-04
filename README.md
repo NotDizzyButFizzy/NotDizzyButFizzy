@@ -10,7 +10,7 @@ Aspiring software developer focusing on AI/ML and data science.
 
 ## Tools I Use
 - **Languages**: Python, Bash, Git
-- **Editors**: Jupyter Notebook, VS Code, Ubuntu/Linux
+- **Editors**: Jupyter Notebook, VS Code, Linux
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## Reach Me
