@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 I am a Computer Science student.  
-Aspiring in Cloud Computing focusing on AI/ML, Operating Systems, Cloud, CI/CD, Containers, IaC, Version Control, Scripting &Automation, Networking, Databases, AI/ML and others.
+Aspiring in Cloud Computing focusing on Operating Systems, Cloud, CI/CD, Containers, IaC, Version Control, Scripting &Automation, Networking, Databases, AI/ML and others.
 
 ## Currently Working On
 - Building ML projects like credit card fraud detection with Python, Pandas, Scikit-learn, and Jupyter Notebooks
