@@ -1,12 +1,12 @@
 # Hey there! 👋
 
-I am a Computer Science student.  
-Aspiring in Cloud Computing focusing on Operating Systems, Cloud, CI/CD, Containers, IaC, Version Control, Scripting &Automation, Networking, Databases, AI/ML and others.
+I'm Salah — a Computer Science student aspiring to a career in cloud computing, with a particular interest in AI/ML, cybersecurity, and building reliable, well-automated systems.
 
 ## Currently Working On
 - Building ML projects like credit card fraud detection with Python, Pandas, Scikit-learn, and Jupyter Notebooks
-- Developing portfolio sites 
-- Exploring cloud computing (AWS) and cybersecurity
+- Developing portfolio sites
+- Next build: deploying my fraud-detection model as a live inference API on AWS (Lambda + API Gateway + S3)
+- Learning cloud computing with AWS and exploring cybersecurity
 
 ## Tools I Use
 - **Languages**: Python, JavaScript, C++, Bash/Shell, HTML, CSS
@@ -16,4 +16,3 @@ Aspiring in Cloud Computing focusing on Operating Systems, Cloud, CI/CD, Contain
 
 ## Reach Me
 - **LinkedIn**: [Click me to view Linkedin](https://www.linkedin.com/in/salah-ul-deen-akhtar-65901a28b/?skipRedirect=true)
-
