@@ -17,5 +17,3 @@ Aspiring in Cloud Computing focusing on AI/ML, Operating Systems, Cloud, CI/CD, 
 ## Reach Me
 - **LinkedIn**: [Click me to view Linkedin](https://www.linkedin.com/in/salah-ul-deen-akhtar-65901a28b/?skipRedirect=true)
 
-## Something happened
-A lot of my projects were recently deleted after someone hacked several of my accounts. The deleted projects included a Weather Dashboard, Expense Tracker, Study Planner, Movie/Anime Recommender, and several others.
